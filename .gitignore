@@ -6,3 +6,5 @@
 .DS_Store
 *.code-workspace
 .obsidian
+.hugo_build.lock
+/public
